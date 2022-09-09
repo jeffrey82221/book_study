@@ -9,4 +9,5 @@ Here is my notes of books about software engineering, machine learning, and othe
 - Refactoring - Improve the Design of Existing Code
 - Advance Python Programming 
 - Distributetd Machine Learning with Python
+- The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job
 
