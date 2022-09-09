@@ -13,6 +13,8 @@ Here is my notes of books about software engineering, machine learning, and othe
 
 # The Complete Software Developer's Career Guide
 
+hackmd: https://hackmd.io/u3nGhnoWQwCJcmHeQXDiSQ?view
+
 # Learning Ray
 
 # Domain Driven Design Quickly 
