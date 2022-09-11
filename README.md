@@ -17,11 +17,14 @@ hackmd: https://hackmd.io/u3nGhnoWQwCJcmHeQXDiSQ?view
 
 # Learning Ray
 
+hackmd: https://hackmd.io/Vdv5rZbdSeCqHsbWzslcRQ?view
+
+# Distributed Machine Learning with Python 
+
+hackmd: 
+
 # Domain Driven Design Quickly 
 
 # Refactoring - Improve the Design of Existing Code 
 
 # Advance Python Programming 
-
-# Distributed Machine Learning with Python 
-
