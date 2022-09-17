@@ -21,9 +21,11 @@ hackmd: https://hackmd.io/Vdv5rZbdSeCqHsbWzslcRQ?view
 
 # Distributed Machine Learning with Python 
 
-hackmd: 
+hackmd: https://hackmd.io/FuC48r-iQLGMbyI66d5CTA
 
 # Domain Driven Design Quickly 
+
+hackmd: https://hackmd.io/JouZylGASWGgx-9pITD8RA
 
 # Refactoring - Improve the Design of Existing Code 
 
